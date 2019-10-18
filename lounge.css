@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+}
+h1,h2{
+      color:       gray;
+  }
+ h1{ border-bottom: 1px solid black; 
+}
+              p{
+                color:maroon;
+              }
+blockquote.greentea, p.greentea {
+  color: green;
+}
+blockquote.lightblue, p.lightblue {
+  color: blue;
+}
+blockquote.bluetea, p.bluetea {
+  color: purple;
+}
